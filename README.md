@@ -118,8 +118,3 @@ http://127.0.0.1:8000/
 * 🎓 B.Tech CSE
 * 💡 Frontend Developer | AI Enthusiast
 
----
-
-## 📜 License
-
-This project is for educational purposes.
